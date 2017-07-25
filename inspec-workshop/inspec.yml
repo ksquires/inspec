@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: CIS CentOS 7 workshop
+maintainer: Kenton Squires
+copyright: Kenton Squires
+copyright_email: ksquires@gmail.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
